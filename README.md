@@ -46,7 +46,7 @@ This repository contains a comprehensive collection of tutorials that demonstrat
 
 ## YouTube Demo
 
-Watch the [YouTube demo](https://www.youtube.com) for a walkthrough of these tutorials and how to apply AutoGluon for different machine learning tasks.
+Watch the [YouTube demo](https://youtu.be/lkANGHt6_nQ) for a walkthrough of these tutorials and how to apply AutoGluon for different machine learning tasks.
 
 ## Getting Started
 
